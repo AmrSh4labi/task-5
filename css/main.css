@@ -1,0 +1,12 @@
+.team{
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+
+}
+.s{
+    float: left;
+    width: 33.3%;
+}
+.clearfix{
+clear: left;
+}
